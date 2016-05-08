@@ -1,0 +1,5 @@
+export INPUTRC=~/rreid/inputrc 
+source ~/rreid/bash_prompt.sh
+bash_prompt
+
+set -o vi
