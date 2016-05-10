@@ -1,4 +1,5 @@
 export INPUTRC=~/rreid/inputrc 
+export SCREENRC=~/rreid/screenrc
 source ~/rreid/bash_prompt.sh
 bash_prompt
 
